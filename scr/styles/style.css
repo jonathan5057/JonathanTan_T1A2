@@ -2,7 +2,7 @@ body{
     font-family: "Arial";
 }
 
-header{
+header footer{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -15,17 +15,42 @@ header{
     text-align: center;
 }
 
-body{
-    background-color: blanchedalmond;
+
+/* Centre all content in the middle */
+.container-centre{
+    border: 10px;
+    max-width: 700px;
+    margin:auto;
+}
+
+.theme-container{
+    background-color: white;
+    color: black;
+}
+
+/* This section is styling for main-content */
+
+.main-content{
+    border: orange 4px solid;
+    padding: 10x;
+    line-height: 1.7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+/*body{
+    background-color: white;
     height: 100%;
     display: flex;
     flex-direction: column;
-}
+}*/
   
 a{
     background-color: orange;
     color: white;
-    font-size: 15px;
+    font-size: 15px;    
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px 30px 5px 30px;
@@ -35,19 +60,10 @@ body{
     color:black;
 }
 
+/* This section is styling for footer */
 footer{
-    padding-bottom: 30px;
-    background: #ccc;
+    background-color: #ccc;
+    padding-left: 20px;;
     text-align: center;
-}
-
-.fcol1{
-    float: left;
-    width: 33.333%;
-}
-
-.fcol2{
-    float: right;
-    width: 33.333%;
 }
 
