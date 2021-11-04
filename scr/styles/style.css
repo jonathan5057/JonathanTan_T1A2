@@ -9,6 +9,12 @@ header{
     align-items: center;
 }
 
+header{
+    padding-bottom: 30px;
+    background: #ccc;
+    text-align: center;
+}
+
 body{
     background-color: blanchedalmond;
     height: 100%;
@@ -28,3 +34,20 @@ a{
 body{
     color:black;
 }
+
+footer{
+    padding-bottom: 30px;
+    background: #ccc;
+    text-align: center;
+}
+
+.fcol1{
+    float: left;
+    width: 33.333%;
+}
+
+.fcol2{
+    float: right;
+    width: 33.333%;
+}
+
