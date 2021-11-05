@@ -1,5 +1,5 @@
 
-/* Arial font for all paragrah */
+/* change all paragraphs font to arial */
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -33,6 +33,8 @@ nav{
 nav ul{
     display: flex;
 }
+
+nav li
 
 nav ul li a{
     margin: 30px;
@@ -99,6 +101,12 @@ a{
 body{
     color:black;
 }
+
+.about-content img{
+    float: left;
+    border-radius: 50%;
+}
+
 
 /* This section is styling for footer */
 footer{
