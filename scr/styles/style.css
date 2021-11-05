@@ -1,5 +1,24 @@
+/* New code starts here */
+/* Step 1 - flexbox module (primary) layout */
+.container-primary-layout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, footer{
+    height: 40px;
+    margin-bottom: 10px;
+}
+
 
 /* change all paragraphs font to arial */
+header, footer, div{
+    border: 1px solid black;
+}
+
+
+/* removing all tempapory
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -11,17 +30,19 @@ body{
     padding:0px;
 }
 
-ul{
+#logo{
+    float: left;
+}
+
+li{
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 a{
     text-decoration: none;
 }
 
-nav{
+.navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;  
@@ -30,13 +51,7 @@ nav{
     padding: 0px 5%;
 }
 
-nav ul{
-    display: flex;
-}
-
-nav li
-
-nav ul li a{
+.navbar ul li a{
     margin: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -59,12 +74,13 @@ header{
 */
 
 /* Centre all content in the middle */
-.container-centre{
+/*.container-centre{
     border: 10px;
     max-width: 700px;
     margin:auto;
-}
+} */
 
+/*
 .theme-container{
     background-color: white;
     color: black;
@@ -72,6 +88,7 @@ header{
 
 /* This section is styling for main-content */
 
+/*
 .main-content{
     border: orange 4px solid;
     padding: 10x;
@@ -88,7 +105,8 @@ header{
     display: flex;
     flex-direction: column;
 }*/
-  
+
+/*
 a{
     background-color: orange;
     color: white;
@@ -107,11 +125,21 @@ body{
     border-radius: 50%;
 }
 
-
 /* This section is styling for footer */
+
+
+/*
 footer{
     background-color: #ccc;
     padding-left: 20px;;
     text-align: center;
+}
+
+footer ul{
+    display: flex;
+}
+
+footer li{
+    display: auto;
 }
 
