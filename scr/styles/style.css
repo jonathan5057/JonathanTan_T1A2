@@ -36,6 +36,10 @@ a:hover{
     color: black;
 }
 
+li{
+    list-style: none;
+}
+
 /*****************header*********************/
 
 .container-header{
@@ -59,12 +63,13 @@ a:hover{
 
 /* Button-design Reusable */
 .container-section .item-2{
-    border: 1px groove #008cff;
-    border-radius: 20px;
+    border: 2px groove black;
+    border-radius: 50px;
     font-size: 20px;
     font-weight: 400;
     display: flex;
     justify-content: center;
+    background:#008cff;
 }
 
 
@@ -110,6 +115,6 @@ a:hover{
 .container-footer .item-4{
     justify-content: center;
     align-items: center;
-    flex-grow: 1;
+    flex-basis: 400px;
     text-align: center;
 }
