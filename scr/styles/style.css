@@ -1,36 +1,52 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/*****************header*********************/
+
 .container-header{
     background-color: #cacaca;
     padding: 10px;
     margin: 10px;
+    display: flex;
+    justify-content: right;
 }
 
 .item{
     background-color: #ff0037;
     color: #fff;
-    font-size: 35px;
-    padding: 20px;
-    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
 }
 
-
-
+/*****************Section*********************/
 
 .container-section{
     background-color: #cacaca;
     padding: 10px;
     margin: 10px;
+    display: flex;
+    flex-direction: column;
 }
 
+.section{
+    background-color: #ff0037;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+}
 
+/*******************footer******************/
 
 .container-footer{
     background-color: #cacaca;
     padding: 10px;
     margin: 10px;
+    display: flex;
+    justify-content: center;
 }
