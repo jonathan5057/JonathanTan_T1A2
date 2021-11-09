@@ -51,7 +51,7 @@ li{
 .header{
     background-color: orange;
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
     padding: 10px;
     margin: 5px;
 }
@@ -87,7 +87,7 @@ li{
 .section{
     background-color: #ff0037;
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     padding: 20px;
     margin: 10px;
 }
