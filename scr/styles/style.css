@@ -118,3 +118,18 @@ li{
     flex-basis: 400px;
     text-align: center;
 }
+
+/* Profile page */
+.container-section .profile-1{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    align-content: center;
+}
+
+/*Profile Picture*/
+.profile-1 img{
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%;
+}
