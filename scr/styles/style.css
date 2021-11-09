@@ -122,6 +122,23 @@ li{
     margin: 10px;
 }
 
+.container-section-contact{
+    background-color: #cacaca;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.section-contact{
+    background-color: #ff0037;
+    color: #fff;
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+}
+
 /*******************footer******************/
 .container-footer{
     background-color: #cacaca;
