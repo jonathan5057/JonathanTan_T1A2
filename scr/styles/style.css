@@ -56,6 +56,19 @@ li{
     margin: 5px;
 }
 
+.container-header-profile{
+    background-color: #cacaca;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-profile{
+    background-color: orange;
+    color: #fff;
+    font-size: 30px;
+    padding: 10px;
+    margin: 5px;
+}
 
 
 /* Navigation Bar*/
@@ -92,6 +105,23 @@ li{
     margin: 10px;
 }
 
+.container-section-profile{
+    background-color: #cacaca;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.section-profile{
+    background-color: #ff0037;
+    color: #fff;
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+}
+
 /*******************footer******************/
 .container-footer{
     background-color: #cacaca;
@@ -118,6 +148,37 @@ li{
     flex-basis: 400px;
     text-align: center;
 }
+
+.container-footer-profile{
+    background-color: #cacaca;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-profile{
+    background-color: #ff0037;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.container-footer-profile .item-4{
+    justify-content: center;
+    align-items: center;
+    flex-basis: 400px;
+    text-align: center;
+}
+
+
+
+
+
 
 /* Profile page */
 .container-section .profile-1{
