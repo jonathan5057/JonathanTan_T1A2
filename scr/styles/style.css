@@ -14,12 +14,20 @@ body
 
 }
 
-.full-screen
+/*.full-screen
 {
-    max-width: 40%;
+    max-width: 55%;
     margin:auto;
-}
+}*/
 
+
+/*@media screen and (max-width: 600px) {
+    .full-screen {
+        max-width: 55%;
+        margin:auto;
+    }
+  }
+ */   
 
 /*
 .full-screen{
@@ -158,7 +166,6 @@ li{
     background:#008cff;
 }
 
-
 .form-row {
     display: flex;
     justify-content: flex-end;
@@ -169,14 +176,6 @@ li{
     padding: .5em 1em .5em 0;
     flex: 2;
 }
-
-
-
-
-
-
-
-
 
 
 
