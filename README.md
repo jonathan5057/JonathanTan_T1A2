@@ -15,7 +15,7 @@ The primary purpose of this project is to build a static portfolio website to di
 
 
 ## Sitemap
-Provided in Docs folder
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Sitemap.PNG)
 
 ## Screenshots
 Provided in Docs folder
