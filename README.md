@@ -11,5 +11,30 @@ The primary purpose of this project is to build a static portfolio website to di
 ## Functionality & Features
 
 
+## Sitemap
+
+## Screenshots
+
+## Target Audience
+The website primary target audience will be the educator at Coder Academy to assessed my knowledge and understanding of web development for term 1. However, the website will not be just stopped here and will be constantly updated and improved throughout my journey with Coder Academy as I improved my coding ability along the way. This website will evetually be target potential employer or hiring manager when the time come. 
+
+The UI and contnent of the website is intentionaly designed to be easily readable and accessible to everyone including hiring managers and people in the Tech industry. It it important that everyone be able to read the content of the website easily.
+
+## Tech Stack
+
+### Project Managment
+Trello
+
+### Code Editor
+Visual Studio Code
+
+### Frontend tech
+HTML & CSS
+
+### Hosting abd Deployment platform
+Netlify
+
+
+
 
 
