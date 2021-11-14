@@ -3,6 +3,7 @@ My portfolio website for Coder Academy Term 1 assessment 2
 
 ## Link ##
 [Github](https://github.com/jonathan5057/JonathanTan_T1A2)
+[Project management Trello](https://trello.com/invite/b/98kUoLsj/0e617162f9d5bfbd218f5d0d71cea328/jonathantant1a2)
 
 Project Mangement:
 
