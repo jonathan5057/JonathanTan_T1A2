@@ -15,10 +15,16 @@ The primary purpose of this project is to build a static portfolio website to di
 
 
 ## Sitemap
-![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Sitemap.PNG)
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Sitemap.PNG "Sitemap")
 
 ## Screenshots
-Provided in Docs folder
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Wireframe-Desktop-Home.PNG "Wireframe Home Page")
+
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Wireframe-Desktop-Profile.PNG "Wireframe Profile Page")
+
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Wireframe-Desktop-Blog.PNG "Wireframe Blog Page")
+
+![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Wireframe-Desktop-Contact.PNG "Wireframe Contact Page")
 
 ## Target Audience
 The website primary target audience will be the educator at Coder Academy to assessed my knowledge and understanding of web development for term 1. However, the website will not be just stopped here and will be constantly updated and improved throughout my journey with Coder Academy as I improved my coding ability along the way. This website will evetually be target potential employer or hiring manager when the time come. 
