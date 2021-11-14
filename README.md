@@ -10,7 +10,11 @@ My portfolio website for Coder Academy Term 1 assessment 2
 The primary purpose of this project is to build a static portfolio website to display my knowledge and coding ability in web developmenet. This website is part of an individual assessment for Coder Academy. Furthermore, there will be more addition projects and assessment coming into this portfolio in the near future.
 
 ## Functionality & Features
-
+This website functionality incluude:
+- Simple and well-defined navigation link to every pages of the website
+- Form element in contact page for use to input data
+- Responsive design for all desktop, tablets and mobiles
+- Download button for a PDF file
 
 ## Sitemap
 ![Alt text](https://github.com/jonathan5057/JonathanTan_T1A2/blob/main/docs/Sitemap.PNG "Sitemap")
