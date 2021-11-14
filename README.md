@@ -1,12 +1,10 @@
 # Jonathan Tan Website Potfolio
 My portfolio website for Coder Academy Term 1 assessment 2
 
-## Link ##
-[Github](https://github.com/jonathan5057/JonathanTan_T1A2)
-[Project management Trello](https://trello.com/invite/b/98kUoLsj/0e617162f9d5bfbd218f5d0d71cea328/jonathantant1a2)
-[Live Website](https://jonathantan5057.netlify.app/index.html)
-
-Project Mangement:
+## Links ##
+[Github](https://github.com/jonathan5057/JonathanTan_T1A2) <br>
+[Project management Trello](https://trello.com/invite/b/98kUoLsj/0e617162f9d5bfbd218f5d0d71cea328/jonathantant1a2) <br>
+[Live Website](https://jonathantan5057.netlify.app/index.html) 
 
 ## Purpose ##
 The primary purpose of this project is to build a static portfolio website to display my knowledge and coding ability in web developmenet. This website is part of an individual assessment for Coder Academy. Furthermore, there will be more addition projects and assessment coming into this portfolio in the near future.
