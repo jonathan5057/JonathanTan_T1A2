@@ -14,12 +14,6 @@ body
 
 }
 
-.full-screen
-{
-    max-width: 55%;
-    margin:auto;
-}
-
 
 /*@media screen and (max-width: 600px) {
     .full-screen {
@@ -194,10 +188,6 @@ li{
     flex: 2;
 }
 
-
-
-
-
 /*******************footer******************/
 .container-footer{
     background-color: #cacaca;
@@ -250,11 +240,6 @@ li{
     flex-basis: 400px;
     text-align: center;
 }
-
-
-
-
-
 
 /* Profile page */
 .container-section .profile-1{
