@@ -255,3 +255,11 @@ li{
     margin: auto; 
     border-radius: 50%;
 }
+
+/* Blog post picture */
+.post img{
+    display: block;
+    margin: auto; 
+    height: 200x;
+    width: 700px;
+}
