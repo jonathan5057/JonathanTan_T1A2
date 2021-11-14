@@ -2,7 +2,7 @@
 My portfolio website for Coder Academy Term 1 assessment 2
 
 ## Link ##
-Link:
+Github: [a link](https://github.com/jonathan5057/JonathanTan_T1A2)
 Project Mangement:
 
 ## Purpose ##
